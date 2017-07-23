@@ -1,0 +1,8 @@
+dotnet run
+dotnet new console
+dotnet new -help (or just dotnet new)
+dotnet new xunit
+dotnet xunit
+dotnet build
+dotnet sln add .\Test\Test.csproj
+dotnet add Test/Test.csproj reference App/Simple.csproj

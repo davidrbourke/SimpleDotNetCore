@@ -1,0 +1,17 @@
+E:\dev\dot-net-core-training\simple\bin\Debug\netcoreapp1.1\simple.deps.json
+E:\dev\dot-net-core-training\simple\bin\Debug\netcoreapp1.1\simple.runtimeconfig.json
+E:\dev\dot-net-core-training\simple\bin\Debug\netcoreapp1.1\simple.runtimeconfig.dev.json
+E:\dev\dot-net-core-training\simple\bin\Debug\netcoreapp1.1\simple.dll
+E:\dev\dot-net-core-training\simple\bin\Debug\netcoreapp1.1\simple.pdb
+E:\dev\dot-net-core-training\simple\obj\Debug\netcoreapp1.1\simple.AssemblyInfo.cs
+E:\dev\dot-net-core-training\simple\obj\Debug\netcoreapp1.1\simple.dll
+E:\dev\dot-net-core-training\simple\obj\Debug\netcoreapp1.1\simple.pdb
+E:\dev\dot-net-core-training\simple\App\bin\Debug\netcoreapp1.1\simple.deps.json
+E:\dev\dot-net-core-training\simple\App\bin\Debug\netcoreapp1.1\simple.runtimeconfig.json
+E:\dev\dot-net-core-training\simple\App\bin\Debug\netcoreapp1.1\simple.runtimeconfig.dev.json
+E:\dev\dot-net-core-training\simple\App\bin\Debug\netcoreapp1.1\simple.dll
+E:\dev\dot-net-core-training\simple\App\bin\Debug\netcoreapp1.1\simple.pdb
+E:\dev\dot-net-core-training\simple\App\obj\Debug\netcoreapp1.1\simple.AssemblyInfo.cs
+E:\dev\dot-net-core-training\simple\App\obj\Debug\netcoreapp1.1\simple.dll
+E:\dev\dot-net-core-training\simple\App\obj\Debug\netcoreapp1.1\simple.pdb
+E:\dev\dot-net-core-training\simple\App\obj\Debug\netcoreapp1.1\Simple.csprojResolveAssemblyReference.cache
